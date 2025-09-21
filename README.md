@@ -1,4 +1,4 @@
-Sales Analytics Dashboard
+📊 Sales Analytics Dashboard
 An interactive Streamlit dashboard that turns raw sales data into executive level insights. Built with python, pandas, matplotlib, and Streamlit. 
 
  Features
@@ -9,6 +9,13 @@ An interactive Streamlit dashboard that turns raw sales data into executive leve
 - Auto-Insights: Generates simple narrative takeaways
 - Filters: Date range, Region, Segment
 - Data Quality Panel: Shape, dtypes, missing values
+Screenshots
+![KPI's] (docs/kpis.png)
+![Monthly Revenue & Profit](docs/monthlyrevandprofit.png)
+![Revenue by Category](docs/revenuebycategory.png)
+![Top Products](docs/topproducts.png)
+![Retention Cohorts](docs/retentioncohorts.png)
+![Auto Insights](docs/autoinsights.png)
 
  Tech Stack
 - Python (pandas, numpy, matplotlib)
